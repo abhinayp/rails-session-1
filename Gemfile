@@ -62,6 +62,6 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "shakapacker", "= 8.1"
+gem "shakapacker", "8.2.0"
 
 gem "react_on_rails", "= 14.0.4"
